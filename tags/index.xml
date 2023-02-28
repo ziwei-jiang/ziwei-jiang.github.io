@@ -6,9 +6,27 @@
     <description>Recent content in Tags on Ziwei Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Feb 2016 11:30:03 +0000</lastBuildDate><atom:link href="https://ziwei-jiang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 03:14:03 -0500</lastBuildDate><atom:link href="https://ziwei-jiang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>control</title>
+      <title>3D Modeling</title>
+      <link>https://ziwei-jiang.github.io/tags/3d-modeling/</link>
+      <pubDate>Sat, 25 Feb 2023 03:14:03 -0500</pubDate>
+      
+      <guid>https://ziwei-jiang.github.io/tags/3d-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://ziwei-jiang.github.io/tags/computer-vision/</link>
+      <pubDate>Sat, 25 Feb 2023 03:14:03 -0500</pubDate>
+      
+      <guid>https://ziwei-jiang.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control</title>
       <link>https://ziwei-jiang.github.io/tags/control/</link>
       <pubDate>Mon, 15 Feb 2016 11:30:03 +0000</pubDate>
       
@@ -17,7 +35,7 @@
     </item>
     
     <item>
-      <title>robotics</title>
+      <title>Robotics</title>
       <link>https://ziwei-jiang.github.io/tags/robotics/</link>
       <pubDate>Mon, 15 Feb 2016 11:30:03 +0000</pubDate>
       

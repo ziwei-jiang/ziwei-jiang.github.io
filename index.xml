@@ -6,7 +6,16 @@
     <description>Recent content on Ziwei Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Feb 2016 11:30:03 +0000</lastBuildDate><atom:link href="https://ziwei-jiang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 22:01:54 -0500</lastBuildDate><atom:link href="https://ziwei-jiang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extended Superquadric</title>
+      <link>https://ziwei-jiang.github.io/posts/superquadric/superquadric/</link>
+      <pubDate>Sat, 25 Feb 2023 03:14:03 -0500</pubDate>
+      
+      <guid>https://ziwei-jiang.github.io/posts/superquadric/superquadric/</guid>
+      <description>A brief introduction to extended superquadrics.</description>
+    </item>
+    
     <item>
       <title>Robotics Specialization: Aerial Robotics</title>
       <link>https://ziwei-jiang.github.io/projects/robotics_specialization/aerial_robotics/</link>
