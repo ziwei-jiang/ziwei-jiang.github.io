@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Feb 2023 03:14:03 -0500</lastBuildDate><atom:link href="https://ziwei-jiang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3D Modeling</title>
-      <link>https://ziwei-jiang.github.io/tags/3d-modeling/</link>
+      <title>Computational Geometry</title>
+      <link>https://ziwei-jiang.github.io/tags/computational-geometry/</link>
       <pubDate>Sat, 25 Feb 2023 03:14:03 -0500</pubDate>
       
-      <guid>https://ziwei-jiang.github.io/tags/3d-modeling/</guid>
+      <guid>https://ziwei-jiang.github.io/tags/computational-geometry/</guid>
       <description></description>
     </item>
     
@@ -22,15 +22,6 @@
       <pubDate>Sat, 25 Feb 2023 03:14:03 -0500</pubDate>
       
       <guid>https://ziwei-jiang.github.io/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Control</title>
-      <link>https://ziwei-jiang.github.io/tags/control/</link>
-      <pubDate>Mon, 15 Feb 2016 11:30:03 +0000</pubDate>
-      
-      <guid>https://ziwei-jiang.github.io/tags/control/</guid>
       <description></description>
     </item>
     
