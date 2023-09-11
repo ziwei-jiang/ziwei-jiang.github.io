@@ -16,5 +16,14 @@
       <description>A brief introduction to extended superquadrics.</description>
     </item>
     
+    <item>
+      <title>Robotics Specialization: Perception</title>
+      <link>https://ziwei-jiang.github.io/projects/robotics_specialization/perception/</link>
+      <pubDate>Sun, 15 Jan 2017 11:30:03 +0000</pubDate>
+      
+      <guid>https://ziwei-jiang.github.io/projects/robotics_specialization/perception/</guid>
+      <description>Camera model and computer vision for robots </description>
+    </item>
+    
   </channel>
 </rss>
