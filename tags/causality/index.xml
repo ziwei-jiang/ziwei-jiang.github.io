@@ -13,7 +13,7 @@
       <pubDate>Tue, 18 Jul 2023 11:30:03 +0000</pubDate>
       
       <guid>https://ziwei-jiang.github.io/projects/causal_effect_under_weak_confounding/weak_confounding/</guid>
-      <description> </description>
+      <description>Overview In this project, We aimed to investigate the relationship between the influence of unobserved confounders and the deviation of spurious correlation from the true causal effect. This is similar to the concept of sensitivity analysis in the causal effect estimation. We utilized entropy as a measure to quantify the strength of the confounder and developed an algorithm to estimate bounds for the causal effect based on the observational distribution and the strength of confounders.</description>
     </item>
     
   </channel>
