@@ -13,7 +13,25 @@
       <pubDate>Tue, 18 Jul 2023 11:30:03 +0000</pubDate>
       
       <guid>https://ziwei-jiang.github.io/projects/causal_effect_under_weak_confounding/weak_confounding/</guid>
-      <description>Overview In this project, We aimed to investigate the relationship between the influence of unobserved confounders and the deviation of spurious correlation from the true causal effect. This is similar to the concept of sensitivity analysis in the causal effect estimation. We utilized entropy as a measure to quantify the strength of the confounder and developed an algorithm to estimate bounds for the causal effect based on the observational distribution and the strength of confounders.</description>
+      <description>Overview In this project, we aimed to investigate the relationship between the influence of unobserved confounders and the deviation of spurious correlation from the true causal effect. This is similar to the concept of sensitivity analysis in the causal effect estimation. We utilized entropy as a measure to quantify the strength of the confounder and developed an algorithm to estimate bounds for the causal effect based on the observational distribution and the strength of confounders.</description>
+    </item>
+    
+    <item>
+      <title>Extended Superquadric</title>
+      <link>https://ziwei-jiang.github.io/projects/superquadric/superquadric/</link>
+      <pubDate>Mon, 07 Feb 2022 03:14:03 -0500</pubDate>
+      
+      <guid>https://ziwei-jiang.github.io/projects/superquadric/superquadric/</guid>
+      <description>A brief introduction to extended superquadrics.</description>
+    </item>
+    
+    <item>
+      <title>Robotics Specialization: Estimation and Learning</title>
+      <link>https://ziwei-jiang.github.io/projects/robotics_specialization/estimation_learning/</link>
+      <pubDate>Fri, 13 Jul 2018 11:30:03 +0000</pubDate>
+      
+      <guid>https://ziwei-jiang.github.io/projects/robotics_specialization/estimation_learning/</guid>
+      <description>Learning and estimation for robots </description>
     </item>
     
     <item>
