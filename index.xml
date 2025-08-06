@@ -4,7 +4,7 @@
     <title>Ziwei&#39;s Site</title>
     <link>https://ziwei-jiang.github.io/</link>
     <description>Recent content on Ziwei&#39;s Site</description>
-    <generator>Hugo -- 0.147.9</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ziwei-jiang.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -112,18 +112,18 @@
  --&gt;
   &lt;h1&gt;Education&lt;/h1&gt;
   &lt;h4&gt;Johns Hopkins University&lt;/h4&gt;
-  &lt;ul&gt;&lt;b&gt;Starting Fall 2025&lt;/b&gt; Ph.D.  in Computer Science&lt;/ul&gt;
+  &lt;ul&gt;Current -- Ph.D.  in Computer Science&lt;/ul&gt;
   &lt;h4&gt;Purdue University&lt;/h4&gt;
-  &lt;ul&gt;&lt;b&gt;2025&lt;/b&gt; M.S. in Computer Engineering&lt;/ul&gt;
+  &lt;ul&gt;2025 --  M.S.  in Computer Engineering&lt;/ul&gt;
   &lt;ul&gt;Research Area: Computer Vision, Deep Learning, Causal Inference&lt;/ul&gt;
   &lt;h4&gt;Southeast Missouri State University&lt;/h4&gt;
-  &lt;ul&gt;&lt;b&gt;2017&lt;/b&gt; B.S. in Engineering Physics: Mechanical Application and Computer Application (Double Majors)&lt;/ul&gt;
+  &lt;ul&gt;2017 -- B.S.  in Engineering Physics: Mechanical Application and Computer Application (Double Majors)&lt;/ul&gt;
   &lt;ul&gt;Interested Area: Robotics, Computer Vision&lt;/ul&gt;
   &lt;h1&gt;Academic Activities&lt;/h1&gt;
   &lt;h3&gt;Conference Reviewer&lt;/h3&gt;
   NeurIPS(2023,2025), AAAI(2024-2025), CLeaR(2024-2025), ICML(2024-2025), UAI(2024-2025), ICLR(2024-2025), AISTATS(2024-2025)
 
-  &lt;h3&gt; Teaching &lt;/h3&gt;
+&lt;!--   &lt;h3&gt; Teaching &lt;/h3&gt;
   &lt;ul&gt; 
     &lt;li&gt;&lt;p style=&#34;margin-bottom: 0px;&#34;&gt;&lt;b&gt;Graduate Teaching Assistant: &lt;/b&gt; ECE382 Feedback System Analysis And Design&lt;/p&gt;</description>
     </item>
